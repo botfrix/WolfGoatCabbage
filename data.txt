@@ -1,0 +1,17 @@
+take goat
+move
+put goat
+move
+take wolf
+move
+put wolf
+take goat
+move
+put goat
+take cabbage
+move
+put cabbage
+move
+take goat
+move
+put goat
